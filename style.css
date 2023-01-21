@@ -206,3 +206,34 @@ body {
 .title:hover {
     opacity: 0.75;
 }
+
+.cont1 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 21%;
+    top: 17.5%;
+    border-radius: 5px;
+}
+
+#img1 {
+    border-radius: 5px;
+    width: 509px;
+    height: 339px;
+}
+.cont2 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 51%;
+    top: 17.5%;
+    border-radius: 5px;
+}
+
+#img2 {
+    border-radius: 5px;
+    width: 509px;
+    height: 339px;
+}
