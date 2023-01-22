@@ -215,12 +215,42 @@ body {
     left: 21%;
     top: 17.5%;
     border-radius: 5px;
+    user-select: none;
 }
+
 
 #img1 {
     border-radius: 5px;
     width: 509px;
     height: 339px;
+    position: relative;
+    transition: opacity 0.5s;
+}
+
+#img1:hover {
+    opacity: 0.90;
+}
+
+#span1 {
+    position: absolute;
+    top: 359px;
+    left: 0;
+    font-size: 21;
+    font-weight: bold;   
+}
+
+#pack1 {
+    position: absolute;
+    top: 389px;
+    left: 0;
+}
+
+#cost1 {
+    position: absolute;
+    top: 389px;
+    left: 90px;
+    font-weight: bold;
+    font-size: 20;
 }
 .cont2 {
     position: absolute;
@@ -236,4 +266,10 @@ body {
     border-radius: 5px;
     width: 509px;
     height: 339px;
+    position: relative;
+    transition: opacity 0.5s;
+}
+
+#img2:hover {
+    opacity: 0.90;
 }
