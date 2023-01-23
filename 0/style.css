@@ -253,13 +253,22 @@ body {
     font-size: 20;
 }
 
-#cart {
+#cart1 {
     position: absolute;
     top: 365px;
     left: 420px;
     height: 20%;
     width: 20%;
 }
+
+#cart2 {
+  position: absolute;
+  top: 365px;
+  left: 420px;
+  height: 20%;
+  width: 20%;
+}
+
 .cont2 {
     position: absolute;
     display: flex;
