@@ -1,0 +1,22 @@
+body {
+    background-color: #EEE9DA;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title {
+    top: 0;
+    left: 0;
+    position: relative;
+}
+
+.subtitle {
+    top: 13.5px;
+    left: 175px;
+    position: absolute;
+}
+
+.checkout {
+    top: 0;
+    right: 25px;
+    position: absolute;
+}
