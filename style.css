@@ -20,6 +20,7 @@ body {
     right: 25px;
     position: absolute;
     font-size: 200%;
+    cursor: pointer;
 }
 
 li {
