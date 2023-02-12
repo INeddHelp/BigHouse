@@ -19,6 +19,7 @@ body {
     top: 0;
     right: 25px;
     position: absolute;
+    font-size: 200%;
 }
 
 li {
